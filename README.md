@@ -1,2 +1,2 @@
-# COMP2230---Kruskals
+# COMP2230-Kruskals
 Krustal clustering
